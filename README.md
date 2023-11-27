@@ -1,4 +1,4 @@
-# componentleveldatafetching
+# Component Level Data Fetching in Next JS
 Component Level Data Fetching with Next JS
 
 Recently I worked on the next JS project, where a requirement was to use component-level data fetching. In this article, I will show you, how we can implement it using a fundamental example.
